@@ -2,3 +2,5 @@ env/
 .env
 files/
 memo.txt
+.streamlit/
+.cache/
